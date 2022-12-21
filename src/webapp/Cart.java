@@ -7,4 +7,7 @@ public class Cart {
     //total
     //promote
     //commit
+
+    //deals
+    //new changes on cart
 }
